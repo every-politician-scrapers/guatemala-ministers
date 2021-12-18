@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Guatemala",
+      "id": "Q774"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q66380860",
+      "start": "2020-01-14",
+      "parent": "Q2879802"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "",
+        "title": "",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/guatemala-ministers"
 }
