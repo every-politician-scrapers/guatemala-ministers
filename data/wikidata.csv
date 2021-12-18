@@ -1,1 +1,16 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q110184153,José Ángel López,José Ángel López,,,Q110183882,"Minister of Agriculture, Livestock and Food of Guatemala",2020-04-14,Q110184153-78BC2B85-B268-4E77-BA08-0470DA51D988
+Q110184154,Mario Rojas Espino,Mario Rojas Espino,,,Q110183883,Minister of Environment and Natural Resources  of Guatemala,2020-01-14,Q110184154-9F4C5B57-9FC8-40C7-85C5-64338C25FA71
+Q110184156,Javier Maldonado Quiñónez,Javier Maldonado Quiñónez,,,Q110183884,"Minister of Communications, Infrastructure, and Housing",2021-07-01,Q110184156-5EE928F2-0AF7-403C-A547-5B4E84D82927
+Q110184158,Felipe Aguilar Marroquín,Felipe Aguilar Marroquín,,,Q110183885,Minister of Culture and Sports of Guatemala,2020-09-10,Q110184158-EBD9A0CF-B389-4679-94E9-A973B96086EB
+Q110184159,Raúl Romero Segura,Raúl Romero Segura,,,Q110183900,Minister of Social Development of Guatemala,2020-01-14,Q110184159-3CCDFC95-9A48-45BE-A5BE-566675A82014
+Q110184160,Antonio Malouf Morales,Antonio Malouf Morales,,,Q110183913,Minister of the Economy of Guatemala,2020-01-14,Q110184160-BA5054D5-21BF-4D4A-B4A7-B4116BDB2F34
+Q110184161,Claudia Ruiz Casasola,Claudia Ruiz Casasola,,,Q110183948,Minister of Education of Guatemala,2020-01-14,Q110184161-9BADD455-C81E-4F87-9833-881F9D435B03
+Q110184164,Álvaro González Ricci,Álvaro González Ricci,,,Q110184001,Minister of Public Finance,2020-01-14,Q110184164-515503F1-168E-45A9-9976-B25220DB5DE8
+Q110184167,Gendri Reyes Mazariegos,Gendri Reyes Mazariegos,,,Q110184012,Minister of the Interior of Guatemala,2020-11-19,Q110184167-C0990AA8-BCDD-47DB-991A-4996E9560A07
+Q110184170,Francisco Coma Martín,Francisco Coma Martín,,,Q110184021,Minister for Health and Social Assistance of Guatemala,2021-09-16,Q110184170-2A67D20F-F920-4ED2-B8CD-E2F10E671E92
+Q110184172,Rafael Rodríguez Pellecer,Rafael Rodríguez Pellecer,,,Q110184032,Minister of Labour and Social Welfare of Guatemala,2020-07-01,Q110184172-5B260C24-24D9-469B-ABF3-7B68E77CBCBC
+Q2134696,Alejandro Giammattei,Alejandro Giammattei,,,Q6085537,President of the Republic of Guatemala,2020-01-14,Q2134696-5070dae0-51d0-45a3-9b11-6b78d3030473
+Q64696643,César Guillermo Castillo Reyes,César Guillermo Castillo Reyes,,,Q5340773,Vice President of Guatemala,2020-01-14,Q64696643-8785d148-43e0-8240-3ed8-2ade4263bad7
+Q66381168,Pedro Brolo,Pedro Brolo,,,Q25241973,Minister of Foreign Affairs,2020-01-14,Q66381168-32B110A7-255C-4427-9C1A-0F850956CB51
+Q83877495,Juan Carlos Alemán Soto,Juan Carlos Alemán Soto,,,Q108730956,Minister of National Defence of Guatemala,2020-01-14,Q83877495-30f12079-435d-9bbd-57ad-81b30a86226d
