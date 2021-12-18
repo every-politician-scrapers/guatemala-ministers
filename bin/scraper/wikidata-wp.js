@@ -21,12 +21,12 @@ module.exports = function () {
 
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           FILTER (?start < NOW())
-          FILTER (!BOUND(?end) || ?end > NOW())
+          FILTER (!BOUND(?end) || ?end > "2020-01-14:00:00Z"^^xsd:dateTime)
           FILTER NOT EXISTS { ?item wdt:P570 [] }
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
-            ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), 'es.wikipedia.org') .
+            ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), 'en.wikipedia.org') .
             OPTIONAL { ?ref pr:P1810 ?sourceName }
             OPTIONAL { ?ref pr:P1932 ?statedName }
             OPTIONAL { ?ref pr:P813  ?sourceDate }
@@ -35,8 +35,8 @@ module.exports = function () {
           OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "es") }
-          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "es") }
+          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "en") }
+          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
           BIND(COALESCE(?statedName, ?nativeLabel, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}

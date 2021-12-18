@@ -23,7 +23,7 @@ jobs:
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
         bundle install
     - name: Compare Wikipedia to Wikidata
-      run: bash bin/compare-eswiki.sh
+      run: bash bin/compare-enwiki.sh
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3

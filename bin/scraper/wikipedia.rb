@@ -41,21 +41,31 @@ class MinistersList < Scraped::HTML
   private
 
   def member_entries
-    noko.xpath('//table[.//th[contains(.,"Mandato")]]//tr[td]')
+    noko.xpath('//table[.//th[contains(.,"Portfolio")]]//tr[td]')
   end
 end
 
 class Officeholder < Scraped::HTML
   field :wdid do
-    tds[2].css('a/@wikidata').first
+    tds[1].css('a/@wikidata').first
   end
 
   field :name do
-    tds[2].text.tidy
+    tds[1].text.tidy
   end
 
   field :position do
     tds[0].text.tidy
+  end
+
+  field :startDate do
+    Date.parse(tds[2].text.tidy).to_s
+  end
+
+  field :endDate do
+    return if raw_end_date.include? 'Incumbent'
+
+    Date.parse(raw_end_date).to_s
   end
 
   private
@@ -63,9 +73,13 @@ class Officeholder < Scraped::HTML
   def tds
     noko.css('td')
   end
+
+  def raw_end_date
+    tds[3].text.tidy
+  end
 end
 
-url = 'https://es.wikipedia.org/wiki/Gabinete_de_Alejandro_Giammattei'
+url = 'https://en.wikipedia.org/wiki/Cabinet_of_Alejandro_Giammattei'
 data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
 
 header = data.first.keys.to_csv
