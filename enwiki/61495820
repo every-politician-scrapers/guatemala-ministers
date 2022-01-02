@@ -1,0 +1,206 @@
+{
+  "title": "Pedro Brolo",
+  "pageID": 61495820,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Foreign ministers of Guatemala",
+    "Guatemalan diplomats",
+    "Guatemalan economists",
+    "Guatemalan politicians",
+    "People from Guatemala City",
+    "Vamos (Guatemala) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pedro Brolo Vila (born 3 February 1981) is a Guatemalan economist, diplomat and politician.",
+              "links": [
+                {
+                  "text": "Guatemalan",
+                  "type": "internal",
+                  "page": "Guatemalans"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Pedro Brolo Vila"
+                ]
+              }
+            },
+            {
+              "text": "He is the designated Minister of Foreign Affairs of Guatemala and succeeded Sandra Jovel on 14 January 2020.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs of Guatemala",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Guatemala)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sandra Jovel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed by President-elect Alejandro Giammattei to occupy that ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President-elect"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alejandro Giammattei"
+                }
+              ]
+            },
+            {
+              "text": "Previously he was a candidate for Mayor of Guatemala City in the 2019 municipal election, he was in fifth place obtained 9,449 and 2.2% of the votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guatemala City"
+                },
+                {
+                  "text": "2019 municipal election",
+                  "type": "internal",
+                  "page": "2019 Guatemala City mayoral election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guatemalan economist, diplomat and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Brolo",
+            "Vila"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1981",
+          "month": "2",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "date": "January 2020",
+          "template": "fact"
+        },
+        {
+          "date": "January 2020",
+          "template": "fact"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Pedro Brolo"
+          },
+          "image": {
+            "text": "Pedro Brolo (17-9-2020) (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Guatemala)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alejandro Giammattei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alejandro Giammattei"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 January 2020"
+          },
+          "predecessor": {
+            "text": "Sandra Jovel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sandra Jovel"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Pedro Brolo Vila"
+          },
+          "birth_date": {
+            "text": "February 3, 1981"
+          },
+          "birth_place": {
+            "text": "Guatemala City, Guatemala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guatemala City"
+              },
+              {
+                "type": "internal",
+                "page": "Guatemala"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Guatemalan and Spaniard",
+            "links": [
+              {
+                "text": "Guatemalan",
+                "type": "internal",
+                "page": "Guatemalans"
+              },
+              {
+                "type": "internal",
+                "page": "Spaniard"
+              }
+            ]
+          },
+          "party": {
+            "text": "Vamos (since 2018)",
+            "links": [
+              {
+                "text": "Vamos",
+                "type": "internal",
+                "page": "Vamos (Guatemala)"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "signature": {
+            "text": "Firma-pedro-brolo.svg"
+          }
+        }
+      ]
+    }
+  ]
+}
