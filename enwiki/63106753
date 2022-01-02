@@ -1,0 +1,147 @@
+{
+  "title": "Allan Rodríguez",
+  "pageID": 63106753,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Presidents of the Congress of Guatemala",
+    "Vamos (Guatemala) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Allan Estuardo Rodríguez Reyes (19 October 1981) is a Guatemalan politician from the Vamos party who is president of the Congress of the Republic of Guatemala for the period 2020–2021.",
+              "links": [
+                {
+                  "text": "Guatemalan",
+                  "type": "internal",
+                  "page": "Guatemala"
+                },
+                {
+                  "text": "Vamos party",
+                  "type": "internal",
+                  "page": "Vamos (Guatemala)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Congress of the Republic of Guatemala"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Allan Estuardo Rodríguez Reyes"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guatemalan politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the American soccer player",
+            "Allan Rodriguez (soccer)"
+          ],
+          "template": "for"
+        },
+        {
+          "year": "1981",
+          "month": "10",
+          "day": "19",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "'alan es'twaɾðo roð'ɾiɣez 'reʝes",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Allan Rodríguez"
+          },
+          "image": {
+            "text": "(Allan Rodríguez) Sesión solemne Congreso de la República Bicentenario Guatemala 02 (cropped).jpg"
+          },
+          "office": {
+            "text": "President of the Congress of Guatemala",
+            "links": [
+              {
+                "text": "Congress of Guatemala",
+                "type": "internal",
+                "page": "Congress of the Republic of Guatemala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 January 2020"
+          },
+          "predecessor": {
+            "text": "Álvaro Arzú Escobar",
+            "links": [
+              {
+                "text": "Álvaro Arzú Escobar",
+                "type": "internal",
+                "page": "Álvaro Arzú Escobar"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Shirley Rivera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shirley Rivera"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Congress of Guatemala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Congress of Guatemala"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 January 2020"
+          },
+          "constituency1": {
+            "text": "Sololá",
+            "links": [
+              {
+                "text": "Sololá",
+                "type": "internal",
+                "page": "Sololá Department"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 19, 1981"
+          },
+          "party": {
+            "text": "Vamos",
+            "links": [
+              {
+                "text": "Vamos",
+                "type": "internal",
+                "page": "Vamos (Guatemala)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
