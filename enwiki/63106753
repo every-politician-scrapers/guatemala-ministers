@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Allan Estuardo Rodríguez Reyes (19 October 1981) is a Guatemalan politician from the Vamos party who is president of the Congress of the Republic of Guatemala for the period 2020–2021.",
+              "text": "Allan Estuardo Rodríguez Reyes (19 October 1981) is a Guatemalan politician from the Vamos party who was president of the Congress of the Republic of Guatemala for the period 2020–2021; 2021–2022.",
               "links": [
                 {
                   "text": "Guatemalan",
@@ -85,6 +85,9 @@
           },
           "term_start": {
             "text": "14 January 2020"
+          },
+          "term_end": {
+            "text": "14 January 2022"
           },
           "predecessor": {
             "text": "Álvaro Arzú Escobar",
