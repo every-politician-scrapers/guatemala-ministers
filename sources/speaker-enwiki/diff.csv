@@ -1,19 +1,15 @@
 @@,itemlabel,item,startdate,enddate
-+++,Jorge García Granados,Q649389,1945-01-10,1945-03-15
-+++,Jorge García Granados,Q649389,1945-03-20,1945-07-12
 +++,Julio Bonilla González,,1945-07-20,1946-02-28
 +++,Gerardo Gordillo Barrios,,1946-03-19,1947-02-28
 +++,Mario Monteforte Toledo,Q5840731,1947,1948-03
-+++,Víctor Giordani,Q84570297,1948,1948
+---,Mario Monteforte Toledo,Q5840731,1947-01-01,1948-03-01
 +++,Óscar Barrios Castillo,,1948,1948
-+++,Mario Monteforte Toledo,Q5840731,1949-03-01,1950-02-28
+->,Víctor Giordani,Q84570297,1948-01-01->1948,1948-01-01->1948
 +++,Guillermo Fonseca Penedo,,1950-03-01,1951-02-28
 +++,Roberto Alvarado Fuentes,,1951-03-01,1952-02-28
 +++,Julio Estrada de la Hoz,,1952-03-01,1953-02-28
 +++,Guillermo Ovando Arriola,,1953-03-01,1954-02-28
 +++,Marco Antonio Franco Chacón,,1954-03-01,1954-06-29
-+++,Luis Arturo González López,Q881015,1954-10-29,1956-02-28
-+++,Luis Arturo González López,Q881015,1956-03-01,1957-02-28
 +++,Federico Carbonell Rodas,,1957-03-01,1958-02-28
 +++,Julio Prado García Salas,,1958-03-01,1959-02-28
 +++,Ernesto Viteri Bertrand,,1959-03-01,1960-02-28
@@ -26,18 +22,18 @@
 +++,José Gregorio Prem Beteta,,1967-06-15,1968
 +++,Manuel Francisco Villamar,,1968,1969
 +++,Enrique A. Claverie Delgado,,1969,1970
-+++,Mario Sandoval Alarcón,Q1808196,1970,1974-06
+->,Mario Sandoval Alarcón,Q1808196,1970-01-01->1970,1974-06-01->1974-06
 +++,Luis Alfonso López,,1974-06,1975-06
 +++,Donaldo Álvarez Ruiz,,1975-06,1976
 +++,Luis Alfonso López,,1976,1977
-+++,Rafael Castillo Valdez,Q7282072,1977,1978-06
+->,Rafael Castillo Valdez,Q7282072,1977-01-01->1977,1978-06-01->1978-06
 +++,José Trinidad Uclés,,1978,1979
 +++,Manuel Salvador Polanco Ramírez,,1979,1981
 +++,Tomás Esteban Zepeda Guzmán,,1981,1982
 +++,Jorge Bonilla López,,1982,1982-03
-+++,Ramiro de León Carpio,Q539891,1984-07,1986-01
-+++,Roberto Carpio,Q3660560,1984-07,1986-01
 +++,Héctor Aragón Quiñónez,,1984-07,1986-01
+->,Ramiro de León Carpio,Q539891,1984-07-01->1984-07,1986-01-01->1986-01
+->,Roberto Carpio,Q3660560,1984-07-01->1984-07,1986-01-01->1986-01
 +++,Roberto Adolfo Valle Valdizán,,1986,1987
 +++,Alfonso Cabrera Hidalgo,,1986-01,1986
 +++,José Ricardo Gómez Gálvez,,1987,1988
@@ -45,16 +41,18 @@
 +++,José Fernando Lobo Dubón,,1989,1990
 +++,Marco Antonio Dardón Castillo,,1990-01,1991-01
 +++,Ana Catalina Soberanis Reyes,,1991-01,1992-01
-+++,Edmond Mulet,Q3047936,1992-01,1993-01
+->,Edmond Mulet,Q3047936,1992-01-01->1992-01,1993-01-01->1993-01
 +++,José Fernando Lobo Dubón,,1993-01,1993-06
 +++,Óscar Vinicio Villar Anleu,,1994-01,1994-09
 +++,Arabella Castro Quiñones de Comparini,,1994-09,1995-01
 +++,José Efraín Ríos Montt,Q467077,1995-01,1996
+---,Efraín Ríos Montt,Q467077,1995-01-01,1996-01-01
 +++,Carlos Alberto García Regás,,1996,1997
 +++,Arabella Castro Quiñones de Comparini,,1997,1998
 +++,Rafael Eduardo Barrios Flores,,1998,1999
 +++,Leonel López Rodas,,1999,2000-01
 +++,José Efraín Ríos Montt,Q467077,2000-01,2004-01
+---,Efraín Ríos Montt,Q467077,2000-01-01,2004-01-01
 +++,Francisco Rolando Morales Chávez,,2004-01,2005-01
 +++,Jorge Méndez Herbruger,,2005-01,2007-01
 +++,Ruben Dario Morales Véliz,,2007-01,2008-01
@@ -64,8 +62,8 @@
 +++,Pedro Muadi,,2013-01,2014-01
 +++,Arístides Crespo Villegas,,2014-01,2015-01
 ->,Luis Rabbé,Q22279821,2015-01-14->2015-01,2016-01-14->2016-01
-+++,Mario Taracena,Q23304498,2016-01,2017-01
-+++,Óscar Chinchilla,Q28837292,2017-01,2018-01
-+++,Álvaro Arzú Escobar,Q27044664,2018-01,2020-01
+->,Mario Taracena,Q23304498,2016-01-01->2016-01,2017-01-01->2017-01
+->,Óscar Chinchilla,Q28837292,2017-01-01->2017-01,2018-01-01->2018-01
+->,Alvaro Arzú Escobar->Álvaro Arzú Escobar,Q27044664,2018-01-01->2018-01,2020-01-01->2020-01
 ->,Allan Rodríguez,Q97174505,2020-01-14->2020-01,2022-01-14->2022-01
 ->,Shirley Rivera,Q108929476,2022-01-14->2022-01,
