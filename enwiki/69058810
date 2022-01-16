@@ -1,8 +1,8 @@
 {
-  "title": "Allan Rodríguez",
-  "pageID": 63106753,
+  "title": "Shirley Rivera",
+  "pageID": 69058810,
   "categories": [
-    "1981 births",
+    "1971 births",
     "Living people",
     "Presidents of the Congress of Guatemala",
     "Vamos (Guatemala) politicians"
@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Allan Estuardo Rodríguez Reyes (19 October 1981) is a Guatemalan politician from the Vamos party who was president of the Congress of the Republic of Guatemala for the period 2020–2021; 2021–2022.",
+              "text": "Shirley Joanna Rivera Zaldaña (born in 22 September 1971) is a Guatemalan politician from the Vamos party, who is president of the Congress for the period 2022–2023, she is the third woman to preside over the Congress of Guatemala.",
               "links": [
                 {
                   "text": "Guatemalan",
@@ -28,15 +28,24 @@
                   "page": "Vamos (Guatemala)"
                 },
                 {
+                  "text": "president of the Congress",
+                  "type": "internal",
+                  "page": "List of presidents of the Congress of the Republic of Guatemala"
+                },
+                {
+                  "text": "Congress of Guatemala",
                   "type": "internal",
                   "page": "Congress of the Republic of Guatemala"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Allan Estuardo Rodríguez Reyes"
+                  "Shirley Joanna Rivera Zaldaña"
                 ]
               }
+            },
+            {
+              "text": "Rivera belongs to the more conservative wing of Congress."
             }
           ]
         }
@@ -48,63 +57,47 @@
         },
         {
           "list": [
-            "the American soccer player",
-            "Allan Rodriguez (soccer)"
+            "Rivera",
+            "Zaldaña"
           ],
-          "template": "for"
+          "lang": "Spanish",
+          "template": "family name hatnote"
         },
         {
-          "year": "1981",
-          "month": "10",
-          "day": "19",
+          "year": "1971",
+          "month": "09",
+          "day": "22",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "transcription": "'alan es'twaɾðo roð'ɾiɣez 'reʝes",
-          "template": "ipa"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "Allan Rodríguez"
+            "text": "Shirley Rivera"
           },
           "image": {
-            "text": "(Allan Rodríguez) Sesión solemne Congreso de la República Bicentenario Guatemala 02 (cropped).jpg"
+            "text": "Shirley Rivera 14 January 2022 (cropped).jpg"
           },
           "office": {
             "text": "President of the Congress of Guatemala",
             "links": [
               {
-                "text": "Congress of Guatemala",
+                "text": "President of the Congress of Guatemala",
                 "type": "internal",
-                "page": "Congress of the Republic of Guatemala"
+                "page": "List of presidents of the Congress of the Republic of Guatemala"
               }
             ]
           },
           "term_start": {
-            "text": "14 January 2020"
-          },
-          "term_end": {
             "text": "14 January 2022"
           },
           "predecessor": {
-            "text": "Álvaro Arzú Escobar",
-            "links": [
-              {
-                "text": "Álvaro Arzú Escobar",
-                "type": "internal",
-                "page": "Álvaro Arzú Escobar"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Shirley Rivera",
+            "text": "Allan Rodríguez",
             "links": [
               {
                 "type": "internal",
-                "page": "Shirley Rivera"
+                "page": "Allan Rodríguez"
               }
             ]
           },
@@ -121,17 +114,31 @@
             "text": "14 January 2020"
           },
           "constituency1": {
-            "text": "Sololá",
+            "text": "Guatemala",
             "links": [
               {
-                "text": "Sololá",
+                "text": "Guatemala",
                 "type": "internal",
-                "page": "Sololá Department"
+                "page": "Guatemala Department"
               }
             ]
           },
           "birth_date": {
-            "text": "October 19, 1981"
+            "text": "September 22, 1971"
+          },
+          "birth_place": {
+            "text": "Escuintla, Escuintla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Escuintla"
+              },
+              {
+                "text": "Escuintla",
+                "type": "internal",
+                "page": "Escuintla Department"
+              }
+            ]
           },
           "party": {
             "text": "Vamos",
@@ -142,6 +149,9 @@
                 "page": "Vamos (Guatemala)"
               }
             ]
+          },
+          "partner": {
+            "text": "Javier Gramajo"
           }
         }
       ]
