@@ -70,30 +70,14 @@
         {
           "sentences": [
             {
-              "text": "Porras' tenure has been criticized by the left for what they consider a backsliding in the fight against corruption."
-            },
-            {
-              "text": "This in spite of being accused of various charges by witnesses and documents that attribute illegalities to Sandoval in the Odebrecht case."
-            },
-            {
-              "text": "Guatemalans now demand both Thelma Aldana and Juan Francisco Sandoval be brought to justice for corruption.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Thelma Aldana"
-                },
-                {
-                  "type": "internal",
-                  "page": "Juan Francisco Sandoval"
-                }
-              ]
+              "text": "Porras' tenure has been criticized for its backsliding in the fight against corruption."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Porras maintained a strained relationship with the Head of the Special Prosecutor's Office against Impunity, Juan Francisco Sandoval, finally dismissing him in July 2021 over proof of corruption, abuse of power and violation of the Constitution and other criminal and administrative charges.",
+              "text": "Porras maintained a strained relationship with the Head of the Special Prosecutor's Office against Impunity, Juan Francisco Sandoval, finally dismissing him in July 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -112,9 +96,6 @@
             },
             {
               "text": "According to the US State Department, Porras \"actively undermined\" the corruption investigations conducted by Sandoval and his team."
-            },
-            {
-              "text": "Charges are based on ideological motivation and lack legal basis."
             }
           ]
         }
@@ -143,27 +124,6 @@
           "spouse": "Gilberto de Jesús Porres de Paz",
           "from": "December 27, 1991",
           "template": "marriage"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
-          "date": "December 2021",
-          "reason": "I do not see that the article supports the claims, although a better Spanish reader is needed",
-          "template": "failed verification"
-        },
-        {
-          "date": "December 2021",
-          "template": "cn"
         }
       ],
       "infoboxes": [
