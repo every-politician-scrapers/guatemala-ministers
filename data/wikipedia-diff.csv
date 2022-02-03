@@ -1,5 +1,4 @@
 @@,wdid,name,position
-->,Q66381168,Pedro Brolo->Pedro Brolo Vila,Minister of Foreign Affairs
 ->,Q110184172->NULL,Rafael Rodríguez Pellecer,Minister of Labour and Social Welfare of Guatemala->Minister of Labor and Social Welfare
 ->,Q110184170->NULL,Francisco Coma Martín,Minister for Health and Social Assistance of Guatemala->Minister of Public Health and Social Assistance
 ->,Q110184167->NULL,Gendri Reyes Mazariegos,Minister of the Interior of Guatemala->Minister of the Interior
@@ -14,11 +13,13 @@
 ---,Q2134696,Alejandro Giammattei,President of the Republic of Guatemala
 ---,Q110227649,Henry Reyes Chigua,Minister of Defense
 +++,Q83877495,Juan Carlos Alemán Soto,Minister of National Defense
++++,Q66381168,Pedro Brolo Vila,Minister of Foreign Affairs
 +++,Q106615484,Edgar Godoy Samayoa,Minister of the Interior
 +++,,Rafael Lobos Madrid,Minister of Labor and Social Welfare
 +++,,María Amelia Flores,Minister of Public Health and Social Assistance
 +++,,Hugo Monroy Castillo,Minister of Public Health and Social Assistance
-+++,,Claudia Haydée Díaz León,Minister of the Interior
++++,,David Napoleón Barrientos Girón,Minister of the Interior
++++,,Claudia Haydée Díaz León (acting),Minister of the Interior
 +++,,Oliverio García Rodas,Minister of the Interior
 +++,,Alberto Pimentel Mata,Minister of Energy and Mines
 +++,,Henry Yovani Reyes Chigua,Minister of National Defense
