@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Alejandro Eduardo Giammattei Falla (born 9 March 1956) is a Guatemalan politician who is the President of Guatemala.",
+              "text": "Alejandro Eduardo Giammattei Falla (born 9 March 1956) is a Guatemalan politician who is serving as the president of Guatemala since 2020.",
               "links": [
                 {
                   "text": "Guatemalan",
@@ -27,8 +27,9 @@
                   "page": "Guatemala"
                 },
                 {
+                  "text": "president of Guatemala",
                   "type": "internal",
-                  "page": "President of Guatemala"
+                  "page": "president of Guatemala"
                 }
               ],
               "formatting": {
