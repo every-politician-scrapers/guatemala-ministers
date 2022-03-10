@@ -1,220 +1,24 @@
 {
-  "title": "Mario Búcaro",
-  "pageID": 69880347,
-  "categories": [
-    "1977 births",
-    "Living people",
-    "Guatemalan diplomats",
-    "Ambassadors of Guatemala to Israel",
-    "Ambassadors of Guatemala to Mexico",
-    "Ambassadors of Guatemala to Bulgaria",
-    "Ambassadors of Guatemala to Cyprus",
-    "Rafael Landívar University alumni",
-    "Universidad de San Carlos de Guatemala alumni",
-    "University of Salamanca alumni",
-    "Foreign ministers of Guatemala"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mario Adolfo Búcaro Flores (born in 5 May 1977) is a Guatemalan diplomat and civil servant who has served as Minister of Foreign Affairs since 1 February 2022.",
-              "links": [
-                {
-                  "text": "Guatemalan",
-                  "type": "internal",
-                  "page": "Guatemala"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (Guatemala)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mario Adolfo Búcaro Flores"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he served as Guatemala Ambassador to Mexico, Israel, Bulgaria and Cyprus."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Guatemalan diplomat",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Búcaro",
-            "Flores"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1977",
-          "month": "5",
-          "day": "5",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mario Búcaro"
-          },
-          "image": {
-            "text": "Mario Búcaro embajador.jpg"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Guatemala)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Alejandro Giammattei",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alejandro Giammattei"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 February 2022"
-          },
-          "predecessor": {
-            "text": "Pedro Brolo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Brolo"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Guatemala Ambassador to Mexico",
-            "links": [
-              {
-                "text": "Guatemala Ambassador to Mexico",
-                "type": "internal",
-                "page": "Foreign relations of Guatemala"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Alejandro Giammattei",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alejandro Giammattei"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "3 March 2020"
-          },
-          "term_end1": {
-            "text": "1 February 2022"
-          },
-          "predecessor1": {
-            "text": "Nelson Olivero"
-          },
-          "office2": {
-            "text": "Guatemala Ambassador to Israel",
-            "links": [
-              {
-                "text": "Guatemala Ambassador to Israel",
-                "type": "internal",
-                "page": "Foreign relations of Guatemala"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Jimmy Morales Alejandro Giammattei",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jimmy Morales"
-              },
-              {
-                "type": "internal",
-                "page": "Alejandro Giammattei"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 October 2018"
-          },
-          "term_end2": {
-            "text": "3 March 2020"
-          },
-          "predecessor2": {
-            "text": "Sara Solís Castañeda"
-          },
-          "successor2": {
-            "text": "Julissa Anzueto Aguilar"
-          },
-          "birth_date": {
-            "text": "May 5, 1977"
-          },
-          "birth_place": {
-            "text": "Guatemala City",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guatemala City"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Rafael Landívar University University of Salamanca University of San Carlos of Guatemala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rafael Landívar University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Salamanca"
-              },
-              {
-                "type": "internal",
-                "page": "University of San Carlos of Guatemala"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mario Búcaro",
+  "image": "Mario Búcaro embajador.jpg",
+  "office": "Minister of Foreign Affairs",
+  "president": "Alejandro Giammattei",
+  "term_start": "1 February 2022",
+  "predecessor": "Pedro Brolo",
+  "office1": "Guatemala Ambassador to Mexico",
+  "president1": "Alejandro Giammattei",
+  "term_start1": "3 March 2020",
+  "term_end1": "1 February 2022",
+  "predecessor1": "Nelson Olivero",
+  "office2": "Guatemala Ambassador to Israel",
+  "president2": "Jimmy Morales Alejandro Giammattei",
+  "term_start2": "25 October 2018",
+  "term_end2": "3 March 2020",
+  "predecessor2": "Sara Solís Castañeda",
+  "successor2": "Julissa Anzueto Aguilar",
+  "birth_date": "May 5, 1977",
+  "birth_place": "Guatemala City",
+  "party": "Independent",
+  "children": "3",
+  "alma_mater": "Rafael Landívar University University of Salamanca University of San Carlos of Guatemala"
 }
