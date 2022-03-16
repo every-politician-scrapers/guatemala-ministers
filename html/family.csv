@@ -1,22 +1,22 @@
 id,name,relationship,relative,relativename
-Q17995110,Jimmy Morales,spouse,Q21400269,Patricia Marroquín
-Q17995110,Jimmy Morales,spouse,Q47507488,Patricia Marroquín
-Q182441,Alfonso Portillo,spouse,Q47825878,Evelyn Morataya
-Q182441,Alfonso Portillo,spouse,Q6003776,María Eugenia González
-Q1846075,Zury Ríos,father,Q467077,Efraín Ríos Montt
-Q1846075,Zury Ríos,mother,Q50349730,María Teresa Sosa
-Q1846075,Zury Ríos,spouse,Q740636,Jerry Weller
-Q19914009,Alejandro Maldonado Aguirre,spouse,Q20900212,Ana Fagianni de Maldonado
-Q2134696,Alejandro Giammattei,child,Q82295478,Marcela Giammattei
-Q250834,Álvaro Enrique Arzú Irigoyen,spouse,Q6066624,Patricia de Arzú
-Q250924,Álvaro Colom,spouse,Q7416788,Sandra Torres
-Q27044664,Alvaro Arzú Escobar,father,Q250834,Álvaro Enrique Arzú Irigoyen
-Q27044664,Alvaro Arzú Escobar,mother,Q6066624,Patricia de Arzú
-Q293194,Óscar Berger,spouse,Q6166826,Wendy de Berger
-Q467077,Efraín Ríos Montt,child,Q1846075,Zury Ríos
-Q467077,Efraín Ríos Montt,child,Q20986951,Adolfo Homero Ríos Sosa
-Q467077,Efraín Ríos Montt,sibling,Q1898762,Mario Enrique Ríos Montt
-Q467077,Efraín Ríos Montt,spouse,Q50349730,María Teresa Sosa
-Q57539,Otto Pérez Molina,child,Q6054733,Otto Pérez Leal
-Q57539,Otto Pérez Molina,spouse,Q6112184,Rosa Leal de Pérez
-Q63683638,Erick Archila,sibling,Q64374616,Rolando Archila
+Q17995110,Jimmy Morales,spouse,Q21400269,
+Q17995110,Jimmy Morales,spouse,Q47507488,
+Q182441,Alfonso Portillo,spouse,Q47825878,
+Q182441,Alfonso Portillo,spouse,Q6003776,
+Q1846075,Zury Ríos,father,Q467077,
+Q1846075,Zury Ríos,mother,Q50349730,
+Q1846075,Zury Ríos,spouse,Q740636,
+Q19914009,Alejandro Maldonado Aguirre,spouse,Q20900212,
+Q2134696,Alejandro Giammattei,child,Q82295478,
+Q250834,Álvaro Enrique Arzú Irigoyen,spouse,Q6066624,
+Q250924,Álvaro Colom,spouse,Q7416788,
+Q27044664,Alvaro Arzú Escobar,father,Q250834,
+Q27044664,Alvaro Arzú Escobar,mother,Q6066624,
+Q293194,Óscar Berger,spouse,Q6166826,
+Q467077,Efraín Ríos Montt,child,Q1846075,
+Q467077,Efraín Ríos Montt,child,Q20986951,
+Q467077,Efraín Ríos Montt,sibling,Q1898762,
+Q467077,Efraín Ríos Montt,spouse,Q50349730,
+Q57539,Otto Pérez Molina,child,Q6054733,
+Q57539,Otto Pérez Molina,spouse,Q6112184,
+Q63683638,Erick Archila,sibling,Q64374616,
