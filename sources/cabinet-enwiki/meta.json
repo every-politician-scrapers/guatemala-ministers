@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+      "name": "Guatemala",
+      "id": "Q774"
+    },
+    "cabinet": {
+      "id": "Q66380860",
+      "start": "2020-01-14",
+      "parent": "Q2879802"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/Cabinet_of_Alejandro_Giammattei",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/guatemala-ministers"
+}

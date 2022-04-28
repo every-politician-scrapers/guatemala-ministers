@@ -51,7 +51,7 @@ class Officeholder < Scraped::HTML
   end
 
   field :name do
-    tds[1].text.tidy
+    tds[1].text.gsub(/\(.*?\)/, '').tidy
   end
 
   field :position do

@@ -5,7 +5,7 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   return `SELECT DISTINCT (STRAFTER(STR(?item), STR(wd:)) AS ?wdid)
                ?name ?wdLabel ?source ?sourceDate
-               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
+               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?startDate ?endDate
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
           # Positions currently in the cabinet
@@ -15,28 +15,26 @@ module.exports = function () {
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
-          ?held ps:P39 ?positionItem ; pq:P580 ?start .
-          FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
-          OPTIONAL { ?held pq:P582 ?end }
+          ?held ps:P39 ?positionItem ; pq:P580 ?startDate .
 
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
-          FILTER (?start < NOW())
-          FILTER (!BOUND(?end) || ?end > "2020-01-14:00:00Z"^^xsd:dateTime)
-          FILTER NOT EXISTS { ?item wdt:P570 [] }
+          OPTIONAL { ?held pq:P582 ?endDate }
+          FILTER (?startDate < NOW())
+          FILTER (!BOUND(?endDate) || ?endDate > "${meta.cabinet.start}"^^xsd:dateTime)
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
-            ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), 'en.wikipedia.org') .
+            ?ref pr:P4656 ?source FILTER CONTAINS(STR(?source), '${meta.source.url}') .
             OPTIONAL { ?ref pr:P1810 ?sourceName }
             OPTIONAL { ?ref pr:P1932 ?statedName }
             OPTIONAL { ?ref pr:P813  ?sourceDate }
           }
 
-          OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
+          OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.source.lang.code}") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "en") }
-          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "en") }
+          OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "${meta.source.lang.code}") }
+          OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "${meta.source.lang.code}") }
           BIND(COALESCE(?statedName, ?nativeLabel, ?positionLabel) AS ?position)
         }
         # ${new Date().toISOString()}
