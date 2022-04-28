@@ -1,29 +1,4 @@
-@@,wdid,name,position
-->,Q111199924->NULL,Janio Rosales Alegría,Minister of the Economy of Guatemala->Minister of Economy
-->,Q110184172->NULL,Rafael Rodríguez Pellecer,Minister of Labour and Social Welfare of Guatemala->Minister of Labor and Social Welfare
-->,Q110184170->NULL,Francisco Coma Martín,Minister for Health and Social Assistance of Guatemala->Minister of Public Health and Social Assistance
-->,Q110184167->NULL,Gendri Reyes Mazariegos,Minister of the Interior of Guatemala->Minister of the Interior
-->,Q110184164->NULL,Álvaro González Ricci,Minister of Public Finance
-->,Q110184161->NULL,Claudia Ruiz Casasola,Minister of Education of Guatemala->Minister of Education
-->,Q110184159->NULL,Raúl Romero Segura,Minister of Social Development of Guatemala->Minister of Social Development
-->,Q110184158->NULL,Felipe Aguilar Marroquín,Minister of Culture and Sports of Guatemala->Minister of Culture and Sports
-->,Q110184156->NULL,Javier Maldonado Quiñónez,"Minister of Communications, Infrastructure, and Housing->Minister of Communications, Infrastructure and Housing"
-->,Q110184154->NULL,Mario Rojas Espino,Minister of Environment and Natural Resources  of Guatemala->Minister of Environment and Natural Resources
-->,Q110184153->NULL,José Ángel López,"Minister of Agriculture, Livestock and Food of Guatemala->Minister of Agriculture, Livestock and Food"
----,Q2134696,Alejandro Giammattei,President of the Republic of Guatemala
----,Q110227649,Henry Reyes Chigua,Minister of Defense
-+++,Q83877495,Juan Carlos Alemán Soto,Minister of National Defense
-+++,Q66381168,Pedro Brolo Vila,Minister of Foreign Affairs
-+++,Q106615484,Edgar Godoy Samayoa,Minister of the Interior
-+++,,Rafael Lobos Madrid,Minister of Labor and Social Welfare
-+++,,María Amelia Flores,Minister of Public Health and Social Assistance
-+++,,Hugo Monroy Castillo,Minister of Public Health and Social Assistance
-+++,,David Napoleón Barrientos Girón,Minister of the Interior
-+++,,Claudia Haydée Díaz León (acting),Minister of the Interior
-+++,,Oliverio García Rodas,Minister of the Interior
-+++,,Alberto Pimentel Mata,Minister of Energy and Mines
-+++,,Antonio Malouf Morales,Minister of Economy
-+++,,Henry Yovani Reyes Chigua,Minister of National Defense
-+++,,Lidiette Martínez Cayetano,Minister of Culture and Sports
-+++,,José Lemus Cifuentes,"Minister of Communications, Infrastructure and Housing"
-+++,,Óscar Bonilla,"Minister of Agriculture, Livestock and Food"
+@@,wdid,name,position,startdate,enddate
+->,Q66381168,Pedro Brolo Vila,Minister of Foreign Affairs,2020-01-14,2022-01-31->2022-02-01
+---,Q64696643,César Guillermo Castillo Reyes,Vice President of Guatemala,2020-01-14,2024-01-14
+---,Q2134696,Alejandro Giammattei,President of the Republic of Guatemala,2020-01-14,
