@@ -1,0 +1,121 @@
+{
+  "title": "Henry Reyes Chigua",
+  "pageID": 69565534,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Defense Ministers of Guatemala"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Henry Yovani Reyes Chigua is Guatemala's Minister of National Defense.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guatemala"
+                },
+                {
+                  "text": "Minister of National Defense",
+                  "type": "internal",
+                  "page": "Minister of National Defence (Guatemala)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Henry Yovani Reyes Chigua"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Guatemalan government minister",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Reyes",
+            "Chigua"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Henry Reyes"
+          },
+          "image": {
+            "text": "Henry Reyes Chigua (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Defense",
+            "links": [
+              {
+                "text": "Minister of Defense",
+                "type": "internal",
+                "page": "Ministry of Defence (Guatemala)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Alejandro Giammattei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alejandro Giammattei"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 December 2021"
+          },
+          "predecessor": {
+            "text": "Juan Carlos Alemán Soto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Carlos Alemán Soto"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Giammattei nombra a Henry Reyes Chigua como nuevo ministro de la Defensa",
+          "url": "https://elperiodico.com.gt/politica/ejecutivo/2021/12/21/giammattei-nombra-a-henry-reyes-chigua-como-nuevo-ministro-de-la-defensa1/",
+          "publisher": "elPeriódico",
+          "accessdate": "21 December 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guatemala-bio-stub"
+        },
+        {
+          "template": "guatemala-politician-stub"
+        }
+      ]
+    }
+  ]
+}
