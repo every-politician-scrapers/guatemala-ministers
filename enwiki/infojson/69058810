@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Congress of Guatemala"
+      ],
+      "stated_as": "Member of the Congress of Guatemala"
+    },
+    "P580": "2020-01-14"
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the Congress of the Republic of Guatemala"
+      ],
+      "stated_as": "President of the Congress of Guatemala"
+    },
+    "P580": "2022-01-14",
+    "P1365": {
+      "links": [
+        "Allan Rodríguez"
+      ],
+      "stated_as": "Allan Rodríguez"
+    }
+  }
+]

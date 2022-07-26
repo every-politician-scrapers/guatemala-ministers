@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Constitutional Court of Guatemala"
+      ],
+      "stated_as": "Deputy Magistrate of the Constitutional Court"
+    },
+    "P580": "2016-04-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carmen María Gutiérrez Sole"
+    },
+    "P582": "2018-05-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Guatemala Attorney General"
+      ],
+      "stated_as": "Attorney General of Guatemala"
+    },
+    "P580": "2018-05-17",
+    "P1365": {
+      "links": [
+        "Thelma Aldana"
+      ],
+      "stated_as": "Thelma Aldana"
+    }
+  }
+]
