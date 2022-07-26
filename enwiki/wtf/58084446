@@ -539,6 +539,29 @@
               "text": "In 2019, he called the Venezuelan government a \"dictatorship\" and said he wanted to maintain the same diplomatic line as his predecessor Jimmy Morales towards Venezuela, a country with which Guatemala has severed diplomatic relations."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2022 Russian invasion of Ukraine, he became the first visit Latin American leader to visit Ukraine since 24 February as well as in the last 12 years.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "Visiting towns such as Bucha, he called on the world community to \"not observe passively.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bucha"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -574,6 +597,18 @@
           "website": "LaLibre.be",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "https://www.prensalibre.com/guatemala/decision-libre-2015/inconforme-con-el-pais-medico-de-profesion-y-en-contra-del-aborto-el-candidato-por-el-partido-fuerza-cree-ademas-que-los-ultimos-presidentes-se-han-equivocado-al-no-emplear-la-pena-de-muerte-vigente-e/",
