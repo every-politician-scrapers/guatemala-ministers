@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Foreign relations of Guatemala"
+      ],
+      "stated_as": "Guatemala Ambassador to Israel"
+    },
+    "P580": "2018-10-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sara Solís Castañeda"
+    },
+    "P582": "2020-03-03",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Julissa Anzueto Aguilar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Foreign relations of Guatemala"
+      ],
+      "stated_as": "Guatemala Ambassador to Mexico"
+    },
+    "P580": "2020-03-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nelson Olivero"
+    },
+    "P582": "2022-02-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Marco Chicas Sosa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Guatemala)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2022-02-01",
+    "P1365": {
+      "links": [
+        "Pedro Brolo"
+      ],
+      "stated_as": "Pedro Brolo"
+    }
+  }
+]
